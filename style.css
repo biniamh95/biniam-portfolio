@@ -41,7 +41,11 @@ body {
     font-weight: 500;
 }
 .nav-links :hover{
+<<<<<<< HEAD
     background-color: blue;
+=======
+    background-color: rgba(14, 24, 224, 0.235);
+>>>>>>> 0943b2c (Added Projects section)
     border-radius: 6px;
 }
 
@@ -320,3 +324,55 @@ body {
 .footer-links a:hover {
     color: white;
 }
+<<<<<<< HEAD
+=======
+/* Projects Section */
+.projects {
+    padding: 80px 10%;
+    background: #ffffff;
+    text-align: center;
+}
+
+.projects h2 {
+    color: #0077ff;
+    margin-bottom: 40px;
+}
+
+.projects-container {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.project-card {
+    background: #f4f7fa;
+    padding: 25px;
+    border-radius: 10px;
+    width: 300px;
+    text-align: left;
+    transition: 0.3s;
+}
+
+.project-card:hover {
+    transform: translateY(-8px);
+}
+
+.project-links {
+    margin-top: 15px;
+}
+
+.project-links a {
+    text-decoration: none;
+    color: white;
+    background: #0077ff;
+    padding: 8px 12px;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.project-links a:hover {
+    background: #005ad1;
+}
+>>>>>>> 0943b2c (Added Projects section)
