@@ -30,7 +30,7 @@ My goal is to combine technology and digital media to create impactful online ex
 - Git & GitHub
 
 
- ✨ Features
+ ✨ Features of my Personal Portfolio Website
 
 - Responsive modern UI design
 - Clean and structured layout
@@ -48,12 +48,6 @@ My goal is to combine technology and digital media to create impactful online ex
 - Projects
 - Media Presence
 - Contact
-
-
- 📸 Preview
-
-(Add screenshot here later)
-
 
 
   🚀 Projects Included
