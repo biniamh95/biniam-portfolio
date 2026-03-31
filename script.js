@@ -7,7 +7,6 @@ window.addEventListener("load", () => {
         bar.style.width = value;
     });
 });
-
 // Animated Counter
 const counters = document.querySelectorAll(".counter");
 
